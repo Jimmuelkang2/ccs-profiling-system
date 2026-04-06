@@ -1,9 +1,10 @@
 # Dependencies
-/node_modules
-/package-lock.json
+node_modules/
+**/node_modules/
 
 # Production
-/dist
+dist/
+**/dist/
 
 # Environment
 .env
